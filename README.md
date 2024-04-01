@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Himel Sarder</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="300" src="https://github.com/Himel-Sarder/Himel-Sarder/assets/143216886/ef5b6d5c-76ed-4d36-885d-f79130c5e3e5)">
+<img align="right" alt="coding" width="300" src="https://undo.io/media/uploads/files/Frustrated_programmer_qeR3D5O.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himel-sarder&label=Profile%20views&color=0e75b6&style=flat" alt="himel-sarder" /> </p>
 
