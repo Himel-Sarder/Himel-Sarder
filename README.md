@@ -7,10 +7,13 @@ Bangamata Sheikh Fojilatunnesa Mujib Science and Technology University
 Khulna, Bangladesh   
    
 🔭 I’m currently working on Django Projects<br>🌱 I’m currently learning Django, Laravel, PHP<br>💬 Ask me about Python, Linux, Web-Development<br>⚡ Fun fact : I am Robot   
-   
+
+   ---
+[![](https://visitcount.itsvg.in/api?id=himel-sarder&icon=0&color=0)](https://visitcount.itsvg.in)         
+   ---
 ![coding-freak](https://github.com/Himel-Sarder/Himel-Sarder/assets/143216886/ae10a3c4-3c2f-431e-952b-a1b4a9d88f8d)
 
-
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/himel-sarder) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://bn.quora.com/profile/Himel-Sarder) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCY5pLqmYpmKls535prUQDGQ) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Himel-sarder) 
 
@@ -30,7 +33,5 @@ Khulna, Bangladesh
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=himel-sarder&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
