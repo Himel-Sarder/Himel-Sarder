@@ -1,3 +1,5 @@
+<div align="center">
+   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71F5A&random=false&width=435&lines=Hello+!+I+am+Himel+Sarder;A+Python+Developer;A+Django+Developer;A+Competitive+Programmer;A+Web-Developer)](https://git.io/typing-svg)
 
 # 💫 About Me:
@@ -32,6 +34,6 @@ Khulna, Bangladesh
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
