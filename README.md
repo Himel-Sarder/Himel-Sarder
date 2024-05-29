@@ -1,7 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71F5A&random=false&width=435&lines=Hello+!+I+am+Himel+Sarder;A+Python+Developer;A+Django+Developer;A+Competitive+Programmer;A+Web-Developer)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🔭 I’m currently working on Django Projects<br>🌱 I’m currently learning Django, Laravel, PHP<br>💬 Ask me about Python, Linux, Web-Development<br>⚡ Fun fact : I am Robot
+Name : Himel Sarder   
+Department : Computer Science and Engineering   
+Bangamata Sheikh Fojilatunnesa Mujib Science and Technology University   
+Khulna, Bangladesh   
+   
+🔭 I’m currently working on Django Projects<br>🌱 I’m currently learning Django, Laravel, PHP<br>💬 Ask me about Python, Linux, Web-Development<br>⚡ Fun fact : I am Robot   
+   
 ![coding-freak](https://github.com/Himel-Sarder/Himel-Sarder/assets/143216886/ae10a3c4-3c2f-431e-952b-a1b4a9d88f8d)
 
 
