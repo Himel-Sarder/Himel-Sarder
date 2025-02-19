@@ -5,7 +5,7 @@
 # 💫 About Me:
 Name : Himel Sarder   
 Department : Computer Science and Engineering   
-Bangamata Sheikh Fojilatunnesa Mujib Science and Technology University   
+Jamalpur Science and Technology University      
 Khulna, Bangladesh   
    
 🔭 I’m currently working on Machine Learning and Django<br>🌱 I’m currently learning Django, Machine Learning<br>💬 Ask me about Python, ML, Web-Development<br>⚡ Fun fact : I am Robot   
