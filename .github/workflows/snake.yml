@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight UTC
-  workflow_dispatch:      # Allows manual trigger from GitHub UI
+    - cron: "0 0 * * *"  # daily at midnight UTC
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -13,14 +13,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate snake animation
+      - name: Generate the snake
         uses: Platane/snk@v3
         with:
           github_user_name: himel-sarder
           outputs: |
             ./output/github-contribution-grid-snake.svg
 
-      - name: Push generated animation
+      - name: Push the generated SVG
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
