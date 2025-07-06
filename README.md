@@ -39,8 +39,6 @@ Khulna, Bangladesh
 
 ![GitHub Calendar](https://github.com/ashutosh00710/github-readme-activity-graph/blob/main/images/octocat-developer.gif?raw=true)
 
-![Snake animation](https://raw.githubusercontent.com/himel-sarder/himel-sarder/output/github-contribution-grid-snake.svg)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=himel-sarder&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
