@@ -33,7 +33,8 @@ Khulna, Bangladesh
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himel-sarder&layout=compact&theme=radical)
 
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=himel-sarder&theme=radical)
+[![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=himel-sarder&theme=radical)](https://streak-stats.demolab.com?user=himel-sarder&theme=radical
+)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=himel-sarder&theme=dracula)
 
